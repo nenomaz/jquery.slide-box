@@ -1,3 +1,9 @@
+/*
+ * jQuery Slide Box Plugin
+ *
+ * Copyright 2016 Nazzareno Mazzitello
+ * This program is released under the Apache 2.0 License
+ */
 (function($){
 	$.fn.slideBox = function(action, options) {
 
